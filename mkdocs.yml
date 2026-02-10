@@ -1,5 +1,7 @@
 site_name: Bhavana's Knowverse
 site_url: https://bhavanawodeyar.github.io/Knowverse/
 
+use_directory_urls: true
+
 theme:
   name: material
